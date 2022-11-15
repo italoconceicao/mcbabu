@@ -39,6 +39,10 @@ h2 {
     height: 20vh;
 }
 
+.twitter-timeline{
+    align-itens: center;   
+}
+
 #contato_container {
     display: flex;
     justify-content: center;
